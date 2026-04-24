@@ -64,7 +64,7 @@ function Firstpage() {
   return (
     <>
       <div className='mainblock'>
-        <h1>Url Shortener</h1>
+       <img src="../src/assets/logo3.png" alt='logo' height="120px" width="350px"></img>
       </div>
 
       <div className='heading'>
